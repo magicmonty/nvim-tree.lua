@@ -268,6 +268,7 @@ You can toggle the help UI by pressing `g?`.
 - Git integration (icons and file highlight)
 - Lsp diagnostics integration (signs)
 - Indent markers
+- Marks (for bulk actions)
 - Mouse support
 - It's fast
 
