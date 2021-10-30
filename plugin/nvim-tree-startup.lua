@@ -34,5 +34,5 @@ end, out_config)
 
 if #x > 0 then
   local msg = "Following options were moved to setup (:help nvim-tree.setup): "
-  require'nvim-tree.utils'.echo_warning(msg..table.concat(x, ", "))
+  require'nvim-tree.utils'.warn(msg..table.concat(x, ", "))
 end
