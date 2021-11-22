@@ -441,6 +441,9 @@ local DEFAULT_OPTS = {
     enable = true,
     ignore = true,
     timeout = 400,
+  },
+  renderer = {
+    indent_level = 2,
   }
 }
 
